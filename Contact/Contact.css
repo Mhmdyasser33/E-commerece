@@ -1,0 +1,21 @@
+.message{
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    height: 100vh;
+}
+
+body{
+   background-color: #406eface
+}
+.message p  {
+    font-size: 35px;
+    color: #fff;
+    font-weight: sans-serif;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background: #000;
+    padding: 30px;
+    border-radius: 15px ;
+  }
